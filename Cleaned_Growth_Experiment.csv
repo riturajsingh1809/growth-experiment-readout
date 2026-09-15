@@ -1,0 +1,226 @@
+experiment_id,student_id,experiment_date,variant,exposure,primary_conversion,guardrail_engagement,search_time_guardrail,processing_time_guardrail,company_id,job_id,event_type,skill,region,experience_years,job_openings,event_count,consent_status
+EXP_001,Student_0186,2025-01-01 00:00:00.000,Treatment,1,1,0,1.51,23.4,Company_052,J0031,Student Applied,Tableau,West,1.0,10.0,1,Yes
+EXP_001,Student_0060,2025-01-01 07:12:43.272,Treatment,1,1,1,3.4625,22.2,Company_015,J0122,Student Applied,Tableau,Central,2.75,4.0,4,Yes
+EXP_001,Student_0178,2025-01-01 14:25:26.544,Control,1,0,1,6.93,50.275,Company_072,J0137,Company Posted,Sql,East,2.5,5.25,4,Yes
+EXP_001,Student_0028,2025-01-01 21:38:09.816,Control,1,1,1,4.086666666666667,37.36666666666667,Company_061,J0051,Company Shortlisted,Tableau,West,3.0,6.666666666666667,3,Yes
+EXP_001,Student_0220,2025-01-02 04:50:53.088,Control,1,1,1,3.245,27.475,Company_021,J0029,Company Shortlisted,Power Bi,South,3.25,6.25,4,No
+EXP_001,Student_0101,2025-01-02 12:03:36.361,Treatment,1,1,1,11.316666666666668,49.333333333333336,Company_075,J0206,Student Applied,Python,North,2.3333333333333335,5.0,3,Yes
+EXP_001,Student_0041,2025-01-02 19:16:19.633,Control,1,1,0,11.47,29.1,Company_075,J0040,Company Shortlisted,Excel,East,2.0,6.0,1,Yes
+EXP_001,Student_0228,2025-01-03 02:29:02.905,Treatment,1,0,1,6.293333333333333,52.166666666666664,Company_024,J0041,Company Posted,Python,North,1.6666666666666667,6.0,3,Yes
+EXP_001,Student_0192,2025-01-03 09:41:46.177,Treatment,1,0,1,7.5175,31.750000000000004,Company_003,J0214,Company Posted,Tableau,North,2.5,6.75,4,Yes
+EXP_001,Student_0155,2025-01-03 16:54:29.449,Control,1,1,1,6.580000000000001,26.8,Company_022,J0011,Student Applied,Power Bi,North,2.5,5.5,6,Yes
+EXP_001,Student_0246,2025-01-04 00:07:12.721,Treatment,1,0,0,5.01,67.4,Company_053,J0151,Company Posted,Marketing,South,0.0,3.0,1,Yes
+EXP_001,Student_0191,2025-01-04 07:19:55.993,Treatment,1,1,1,7.4,28.049999999999997,Company_002,J0001,Company Shortlisted,Tableau,North,2.0,8.5,2,No
+EXP_001,Student_0145,2025-01-04 14:32:39.265,Control,1,1,1,5.8066666666666675,31.25,Company_030,J0046,Company Shortlisted,Power Bi,Central,3.1666666666666665,7.166666666666667,6,Yes
+EXP_001,Student_0201,2025-01-04 21:45:22.538,Treatment,1,1,1,9.26,36.15,Company_038,J0101,Student Applied,Sql,West,1.5,5.0,2,Yes
+EXP_001,Student_0161,2025-01-05 04:58:05.810,Treatment,1,0,1,1.1566666666666665,48.333333333333336,Company_002,J0149,Company Posted,Power Bi,South,2.6666666666666665,8.0,3,Yes
+EXP_001,Student_0245,2025-01-05 12:10:49.082,Treatment,1,0,0,11.78,27.8,Company_064,J0090,Company Posted,Sql,East,4.0,8.0,1,Yes
+EXP_001,Student_0212,2025-01-05 19:23:32.354,Treatment,1,1,1,6.095,43.9,Company_060,J0110,Student Applied,Finance,East,2.25,7.75,4,Yes
+EXP_001,Student_0205,2025-01-06 02:36:15.626,Control,1,1,1,8.63,28.55,Company_021,J0164,Company Shortlisted,Excel,West,2.25,5.0,4,Yes
+EXP_001,Student_0240,2025-01-06 17:01:42.170,Treatment,1,0,1,7.0525,26.275000000000002,Company_076,J0215,Company Posted,Power Bi,North,2.25,2.5,4,Yes
+EXP_001,Student_0157,2025-01-07 00:14:25.442,Control,1,1,1,3.9880000000000004,31.9,Company_058,J0057,Student Applied,Java,North,2.8,4.6,5,No
+EXP_001,Student_0141,2025-01-07 07:27:08.715,Treatment,1,1,1,5.3566666666666665,25.066666666666666,Company_022,J0001,Student Applied,Tableau,Central,3.0,5.333333333333333,3,Yes
+EXP_001,Student_0046,2025-01-07 14:39:51.987,Treatment,1,1,1,7.316666666666666,34.833333333333336,Company_049,J0063,Company Shortlisted,Python,Central,1.3333333333333333,6.333333333333333,3,No
+EXP_001,Student_0035,2025-01-07 21:52:35.259,Control,1,0,1,5.443333333333334,40.300000000000004,Company_059,J0182,Company Posted,Data Analysis,North,2.0,3.6666666666666665,3,Yes
+EXP_001,Student_0134,2025-01-08 05:05:18.531,Control,1,1,1,7.345999999999999,21.82,Company_042,J0055,Student Applied,Python,East,1.6,4.4,5,Yes
+EXP_001,Student_0082,2025-01-08 12:18:01.803,Treatment,1,1,1,6.550000000000001,11.649999999999999,Company_060,J0115,Student Applied,Finance,East,1.5,2.5,2,Yes
+EXP_001,Student_0115,2025-01-08 19:30:45.075,Treatment,1,1,1,3.4299999999999997,31.26,Company_080,J0168,Company Shortlisted,Data Analysis,Central,1.4,5.0,5,No
+EXP_001,Student_0197,2025-01-09 02:43:28.347,Control,1,1,1,1.605,42.55,Company_015,J0143,Student Applied,Data Analysis,West,4.5,4.0,2,Yes
+EXP_001,Student_0047,2025-01-09 09:56:11.619,Treatment,1,1,1,5.4087499999999995,29.7375,Company_062,J0149,Student Applied,Python,North,3.125,5.375,8,No
+EXP_001,Student_0153,2025-01-09 17:08:54.891,Control,1,1,1,3.91,26.349999999999998,Company_062,J0175,Company Shortlisted,Sql,Central,2.0,1.5,2,Yes
+EXP_001,Student_0194,2025-01-10 00:21:38.164,Treatment,1,0,1,5.9875,40.875,Company_047,J0201,Company Posted,Python,Central,3.0,6.5,4,Yes
+EXP_001,Student_0010,2025-01-10 07:34:21.436,Treatment,1,1,1,5.936666666666667,41.43333333333333,Company_062,J0053,Company Shortlisted,Sql,North,2.6666666666666665,2.3333333333333335,3,No
+EXP_001,Student_0056,2025-01-10 14:47:04.708,Control,1,1,1,2.425,21.5,Company_051,J0137,Student Applied,Finance,North,3.5,5.0,4,Yes
+EXP_001,Student_0030,2025-01-10 21:59:47.980,Treatment,1,0,1,6.0175,35.575,Company_055,J0202,Company Posted,Tableau,East,1.0,3.5,4,No
+EXP_001,Student_0242,2025-01-11 05:12:31.252,Treatment,1,0,0,9.87,67.8,Company_064,J0180,Company Posted,Marketing,West,1.0,6.0,1,Yes
+EXP_001,Student_0109,2025-01-11 12:25:14.524,Control,1,1,1,3.4200000000000004,35.94,Company_003,J0057,Student Applied,Sql,West,3.4,6.8,5,Yes
+EXP_001,Student_0005,2025-01-11 19:37:57.796,Treatment,1,0,1,6.0249999999999995,46.61666666666667,Company_051,J0117,Company Posted,Finance,North,1.6666666666666667,5.333333333333333,6,Yes
+EXP_001,Student_0119,2025-01-12 02:50:41.068,Treatment,1,1,1,6.6049999999999995,23.15,Company_007,J0154,Student Applied,Java,South,3.5,3.0,2,No
+EXP_001,Student_0248,2025-01-12 10:03:24.341,Control,1,1,1,3.0400000000000005,39.699999999999996,Company_021,J0169,Student Applied,Finance,Central,1.0,2.3333333333333335,3,Yes
+EXP_001,Student_0033,2025-01-12 17:16:07.613,Control,1,1,1,4.6075,45.375,Company_073,J0035,Student Applied,Python,Central,1.5,4.5,4,Yes
+EXP_001,Student_0118,2025-01-13 00:28:50.885,Control,1,0,1,7.133333333333333,34.300000000000004,Company_039,J0063,Company Posted,Python,North,1.3333333333333333,6.0,6,Yes
+EXP_001,Student_0065,2025-01-13 07:41:34.157,Treatment,1,1,1,6.6850000000000005,21.25,Company_018,J0025,Company Shortlisted,Marketing,South,1.0,2.5,2,Yes
+EXP_001,Student_0146,2025-01-13 14:54:17.429,Treatment,1,1,1,5.056666666666667,34.833333333333336,Company_004,J0090,Company Shortlisted,Finance,East,3.0,6.0,3,Yes
+EXP_001,Student_0224,2025-01-13 22:07:00.701,Control,1,1,0,4.67,10.0,Company_060,J0075,Company Shortlisted,Excel,North,0.0,10.0,1,Yes
+EXP_001,Student_0239,2025-01-14 05:19:43.973,Control,1,1,1,6.1325,38.675,Company_014,J0038,Student Applied,Tableau,North,2.5,6.75,4,No
+EXP_001,Student_0177,2025-01-14 12:32:27.245,Control,1,0,1,7.016666666666666,37.53333333333333,Company_009,J0130,Company Posted,Python,Central,4.333333333333333,3.6666666666666665,3,Yes
+EXP_001,Student_0011,2025-01-14 19:45:10.518,Treatment,1,1,1,9.39,36.699999999999996,Company_053,J0135,Student Applied,Marketing,North,2.3333333333333335,4.666666666666667,3,No
+EXP_001,Student_0085,2025-01-15 02:57:53.790,Treatment,1,0,1,7.260000000000001,37.833333333333336,Company_002,J0210,Company Posted,Tableau,North,1.3333333333333333,5.333333333333333,3,No
+EXP_001,Student_0026,2025-01-15 10:10:37.062,Control,1,0,1,5.238333333333333,30.816666666666666,Company_060,J0219,Company Posted,Finance,North,1.6666666666666667,4.5,6,Yes
+EXP_001,Student_0063,2025-01-15 17:23:20.334,Control,1,0,1,3.7,21.825,Company_071,J0162,Company Posted,Finance,North,2.25,6.5,4,Yes
+EXP_001,Student_0217,2025-01-16 00:36:03.606,Treatment,1,1,1,8.959999999999999,40.76666666666666,Company_044,J0091,Student Applied,Data Analysis,East,3.0,5.0,3,Yes
+EXP_001,Student_0086,2025-01-16 07:48:46.878,Control,1,1,1,3.7633333333333336,45.53333333333333,Company_008,J0017,Company Shortlisted,Marketing,East,3.0,3.6666666666666665,3,No
+EXP_001,Student_0059,2025-01-16 15:01:30.150,Treatment,1,1,1,6.16,41.55,Company_047,J0128,Student Applied,Python,North,3.0,7.5,2,Yes
+EXP_001,Student_0027,2025-01-16 22:14:13.422,Treatment,1,1,1,1.175,19.1,Company_035,J0171,Student Applied,Excel,Central,3.5,5.5,2,Yes
+EXP_001,Student_0098,2025-01-18 03:05:06.511,Treatment,1,1,1,9.51,26.900000000000002,Company_004,J0182,Student Applied,Python,Central,4.0,2.0,2,Yes
+EXP_001,Student_0105,2025-01-18 10:17:49.783,Control,1,0,1,2.175,33.65,Company_002,J0152,Company Posted,Tableau,Central,2.5,5.0,2,Yes
+EXP_001,Student_0099,2025-01-18 17:30:33.055,Treatment,1,1,1,5.705,32.2,Company_006,J0025,Company Shortlisted,Power Bi,North,3.5,8.0,2,No
+EXP_001,Student_0129,2025-01-19 00:43:16.327,Control,1,1,0,1.43,22.0,Company_054,J0199,Student Applied,Tableau,West,1.0,5.0,1,No
+EXP_001,Student_0149,2025-01-19 07:55:59.599,Control,1,0,1,2.45,14.1,Company_004,J0180,Company Posted,Finance,East,3.5,3.5,2,Yes
+EXP_001,Student_0055,2025-01-19 22:21:26.144,Treatment,1,1,1,6.1049999999999995,30.95,Company_063,J0088,Student Applied,Power Bi,Central,3.5,6.5,2,Yes
+EXP_001,Student_0006,2025-01-20 05:34:09.416,Treatment,1,1,1,7.6725,28.025,Company_018,J0161,Student Applied,Excel,Central,1.5,6.25,4,No
+EXP_001,Student_0209,2025-01-20 19:59:35.960,Control,1,1,0,6.06,67.7,Company_034,J0029,Company Shortlisted,Excel,West,5.0,7.0,1,Yes
+EXP_001,Student_0095,2025-01-21 10:25:02.504,Treatment,1,1,1,6.888333333333333,36.36666666666667,Company_062,J0150,Student Applied,Tableau,North,2.6666666666666665,6.166666666666667,6,Yes
+EXP_001,Student_0133,2025-01-21 17:37:45.776,Control,1,1,1,6.885000000000001,32.25,Company_014,J0154,Company Shortlisted,Tableau,Central,3.0,7.0,6,Yes
+EXP_001,Student_0102,2025-01-22 00:50:29.048,Treatment,1,1,0,2.36,6.7,Company_048,J0156,Student Applied,Java,South,2.0,3.0,1,Yes
+EXP_001,Student_0003,2025-01-22 08:03:12.321,Control,1,1,1,8.1375,28.425,Company_015,J0114,Student Applied,Finance,West,3.5,5.0,4,No
+EXP_001,Student_0181,2025-01-22 15:15:55.593,Control,1,1,1,1.915,33.55,Company_072,J0213,Student Applied,Java,South,0.0,6.5,2,No
+EXP_001,Student_0023,2025-01-22 22:28:38.865,Control,1,0,1,10.453333333333333,57.06666666666666,Company_078,J0049,Company Posted,Python,Central,1.0,5.333333333333333,3,Yes
+EXP_001,Student_0229,2025-01-23 05:41:22.137,Control,1,1,1,5.725714285714285,34.957142857142856,Company_062,J0199,Company Shortlisted,Finance,North,2.857142857142857,4.428571428571429,7,Yes
+EXP_001,Student_0053,2025-01-23 12:54:05.409,Treatment,1,1,1,7.083333333333333,28.066666666666666,Company_040,J0081,Student Applied,Finance,East,4.333333333333333,3.6666666666666665,3,Yes
+EXP_001,Student_0165,2025-01-23 20:06:48.681,Control,1,1,1,8.14,50.05,Company_080,J0084,Company Shortlisted,Data Analysis,Central,2.5,6.5,2,Yes
+EXP_001,Student_0202,2025-01-24 03:19:31.953,Treatment,1,0,1,4.3933333333333335,37.666666666666664,Company_053,J0105,Company Posted,Data Analysis,North,3.3333333333333335,7.666666666666667,3,Yes
+EXP_001,Student_0083,2025-01-24 17:44:58.497,Control,1,0,1,4.486666666666667,45.4,Company_026,J0148,Company Posted,Sql,South,2.6666666666666665,4.333333333333333,3,Yes
+EXP_001,Student_0078,2025-01-25 15:23:08.314,Treatment,1,1,1,5.24,25.619999999999997,Company_029,J0220,Company Shortlisted,Power Bi,West,2.0,6.6,5,No
+EXP_001,Student_0110,2025-01-26 05:48:34.858,Control,1,1,0,4.4,37.7,Company_045,J0189,Company Shortlisted,Data Analysis,West,3.0,7.0,1,Yes
+EXP_001,Student_0001,2025-01-26 13:01:18.130,Treatment,1,0,1,8.218,37.46,Company_065,J0104,Company Posted,Data Analysis,South,2.4,5.4,5,Yes
+EXP_001,Student_0051,2025-01-26 20:14:01.402,Treatment,1,1,1,6.22,47.833333333333336,Company_071,J0049,Company Shortlisted,Data Analysis,Central,1.6666666666666667,6.0,3,Yes
+EXP_001,Student_0173,2025-01-27 03:26:44.674,Control,1,1,1,5.19,46.53333333333334,Company_009,J0071,Company Shortlisted,Marketing,East,3.6666666666666665,4.333333333333333,3,Yes
+EXP_001,Student_0004,2025-01-27 17:52:11.219,Control,1,1,1,4.403333333333333,35.36666666666667,Company_008,J0141,Company Shortlisted,Tableau,West,2.6666666666666665,2.6666666666666665,3,Yes
+EXP_001,Student_0190,2025-01-28 01:04:54.491,Treatment,1,1,1,3.8433333333333333,57.666666666666664,Company_063,J0215,Student Applied,Power Bi,North,2.6666666666666665,6.0,3,Yes
+EXP_001,Student_0193,2025-01-28 08:17:37.763,Control,1,1,1,7.74,22.650000000000002,Company_011,J0179,Student Applied,Finance,North,3.0,6.5,2,Yes
+EXP_001,Student_0113,2025-01-28 15:30:21.035,Treatment,1,0,1,6.984,50.26,Company_008,J0123,Company Posted,Sql,West,1.8,6.6,5,Yes
+EXP_001,Student_0232,2025-01-28 22:43:04.307,Treatment,1,0,0,9.05,7.1,Company_035,J0184,Company Posted,Java,South,1.0,1.0,1,No
+EXP_001,Student_0032,2025-01-29 05:55:47.579,Treatment,1,1,1,11.115,39.0,Company_035,J0211,Company Shortlisted,Tableau,East,2.5,4.5,2,Yes
+EXP_001,Student_0034,2025-01-29 13:08:30.851,Treatment,1,1,1,6.595000000000001,17.9,Company_033,J0062,Student Applied,Sql,North,3.0,6.75,4,No
+EXP_001,Student_0092,2025-01-29 20:21:14.124,Control,1,1,1,6.886666666666667,40.56666666666667,Company_005,J0032,Company Shortlisted,Python,South,3.3333333333333335,8.666666666666666,3,No
+EXP_001,Student_0072,2025-01-30 10:46:40.668,Control,1,0,1,8.1175,48.075,Company_028,J0029,Company Posted,Sql,North,1.75,4.5,4,No
+EXP_001,Student_0039,2025-01-30 17:59:23.940,Control,1,0,1,6.5375,39.35,Company_007,J0049,Company Posted,Marketing,South,3.0,4.25,4,Yes
+EXP_001,Student_0154,2025-01-31 01:12:07.212,Control,1,1,1,3.8675,25.974999999999998,Company_073,J0173,Student Applied,Data Analysis,South,3.25,5.5,4,Yes
+EXP_001,Student_0250,2025-01-31 08:24:50.484,Treatment,1,1,1,7.545,39.900000000000006,Company_072,J0030,Student Applied,Data Analysis,East,4.0,7.5,2,Yes
+EXP_001,Student_0162,2025-01-31 15:37:33.756,Control,1,0,1,6.48,47.55,Company_012,J0144,Company Posted,Finance,East,2.0,8.0,2,Yes
+EXP_001,Student_0182,2025-01-31 22:50:17.028,Treatment,1,1,0,9.27,28.2,Company_034,J0168,Student Applied,Data Analysis,Central,4.0,6.0,1,Yes
+EXP_001,Student_0123,2025-02-01 20:28:26.845,Treatment,1,0,1,8.283333333333333,37.63333333333333,Company_023,J0001,Company Posted,Power Bi,East,2.3333333333333335,7.333333333333333,3,No
+EXP_001,Student_0050,2025-02-02 03:41:10.117,Control,1,1,1,9.49,45.849999999999994,Company_062,J0078,Company Shortlisted,Power Bi,North,2.0,5.5,2,Yes
+EXP_001,Student_0012,2025-02-02 10:53:53.389,Treatment,1,0,1,5.63,58.7,Company_037,J0115,Company Posted,Tableau,North,1.5,7.5,2,No
+EXP_001,Student_0054,2025-02-03 01:19:19.933,Control,1,0,0,11.32,35.4,Company_035,J0194,Company Posted,Python,East,4.0,9.0,1,Yes
+EXP_001,Student_0236,2025-02-03 08:32:03.205,Control,1,0,1,7.0275,42.1,Company_065,J0220,Company Posted,Finance,West,1.25,5.5,4,Yes
+EXP_001,Student_0222,2025-02-03 22:57:29.750,Control,1,1,1,8.549999999999999,44.73333333333333,Company_078,J0114,Student Applied,Excel,Central,1.6666666666666667,6.333333333333333,3,Yes
+EXP_001,Student_0057,2025-02-04 13:22:56.294,Treatment,1,0,0,5.04,56.7,Company_001,J0179,Company Posted,Marketing,Central,5.0,4.0,1,No
+EXP_001,Student_0112,2025-02-05 03:48:22.838,Treatment,1,1,1,3.56,23.549999999999997,Company_014,J0132,Company Shortlisted,Data Analysis,South,3.5,2.0,2,Yes
+EXP_001,Student_0151,2025-02-05 18:13:49.382,Treatment,1,0,1,6.25,20.875,Company_009,J0008,Company Posted,Tableau,North,2.5,4.75,4,No
+EXP_001,Student_0207,2025-02-06 01:26:32.654,Control,1,1,1,6.165,35.2,Company_079,J0157,Student Applied,Tableau,West,2.0,5.0,2,Yes
+EXP_001,Student_0142,2025-02-06 23:04:42.471,Treatment,1,1,1,1.9,45.55,Company_077,J0131,Company Shortlisted,Marketing,North,1.5,7.5,2,Yes
+EXP_001,Student_0066,2025-02-07 06:17:25.743,Treatment,1,0,1,9.053333333333333,39.13333333333333,Company_051,J0032,Company Posted,Marketing,Central,2.0,4.666666666666667,3,Yes
+EXP_001,Student_0075,2025-02-07 13:30:09.015,Treatment,1,1,1,6.91,19.133333333333336,Company_063,J0010,Student Applied,Java,South,1.6666666666666667,6.0,3,Yes
+EXP_001,Student_0179,2025-02-07 20:42:52.287,Control,1,1,1,7.07875,38.975,Company_052,J0202,Student Applied,Java,Central,2.25,7.125,8,No
+EXP_001,Student_0103,2025-02-08 03:55:35.559,Treatment,1,1,0,3.86,55.2,Company_004,J0211,Student Applied,Data Analysis,Central,3.0,1.0,1,Yes
+EXP_001,Student_0166,2025-02-08 11:08:18.831,Control,1,1,1,5.109999999999999,24.433333333333337,Company_023,J0110,Student Applied,Java,North,1.6666666666666667,5.333333333333333,3,Yes
+EXP_001,Student_0226,2025-02-09 01:33:45.376,Treatment,1,0,1,6.523333333333333,31.833333333333332,Company_043,J0124,Company Posted,Sql,North,1.6666666666666667,6.0,3,Yes
+EXP_001,Student_0038,2025-02-09 08:46:28.648,Control,1,1,1,7.141428571428571,29.585714285714285,Company_029,J0087,Student Applied,Tableau,West,3.7142857142857144,6.714285714285714,7,Yes
+EXP_001,Student_0079,2025-02-10 20:50:05.008,Treatment,1,1,1,9.26,28.025,Company_059,J0135,Student Applied,Finance,East,2.25,4.5,4,Yes
+EXP_001,Student_0091,2025-02-11 04:02:48.280,Control,1,0,0,6.54,4.6,Company_028,J0093,Company Posted,Java,North,4.0,10.0,1,Yes
+EXP_001,Student_0052,2025-02-12 08:53:41.369,Control,1,0,0,1.92,28.2,Company_062,J0067,Company Posted,Excel,West,2.0,3.0,1,Yes
+EXP_001,Student_0249,2025-02-12 16:06:24.641,Control,1,0,1,4.0633333333333335,32.5,Company_057,J0216,Company Posted,Java,West,4.0,4.666666666666667,3,No
+EXP_001,Student_0225,2025-02-13 06:31:51.185,Treatment,1,1,1,4.79,34.96,Company_028,J0187,Student Applied,Marketing,East,3.0,5.2,5,Yes
+EXP_001,Student_0216,2025-02-13 13:44:34.457,Treatment,1,1,1,6.112500000000001,28.375,Company_028,J0072,Student Applied,Marketing,East,1.75,5.75,4,Yes
+EXP_001,Student_0247,2025-02-14 11:22:44.274,Control,1,0,1,7.496,36.760000000000005,Company_062,J0051,Company Posted,Finance,North,2.0,7.8,5,Yes
+EXP_001,Student_0106,2025-02-14 18:35:27.546,Control,1,1,1,7.555,55.05,Company_075,J0097,Student Applied,Finance,East,2.5,2.0,2,No
+EXP_001,Student_0081,2025-02-15 09:00:54.090,Treatment,1,1,1,4.755,66.3,Company_001,J0008,Company Shortlisted,Tableau,East,1.5,5.0,2,Yes
+EXP_001,Student_0029,2025-02-15 23:26:20.634,Treatment,1,1,0,8.91,8.0,Company_062,J0035,Company Shortlisted,Python,West,0.0,1.0,1,Yes
+EXP_001,Student_0132,2025-02-16 06:39:03.907,Control,1,0,1,6.4624999999999995,23.200000000000003,Company_077,J0096,Company Posted,Power Bi,West,2.5,4.5,4,Yes
+EXP_001,Student_0138,2025-02-16 13:51:47.179,Control,1,1,1,9.43,30.0,Company_003,J0088,Company Shortlisted,Finance,North,1.0,3.6666666666666665,3,Yes
+EXP_001,Student_0184,2025-02-16 21:04:30.451,Control,1,0,1,7.8175,34.875,Company_070,J0078,Company Posted,Excel,South,0.5,6.5,4,Yes
+EXP_001,Student_0074,2025-02-17 11:29:56.995,Control,1,1,1,6.266666666666667,25.3,Company_027,J0120,Student Applied,Data Analysis,Central,1.6666666666666667,3.6666666666666665,3,Yes
+EXP_001,Student_0017,2025-02-17 18:42:40.267,Control,1,1,1,2.9299999999999997,64.73333333333333,Company_009,J0046,Company Shortlisted,Tableau,West,0.6666666666666666,4.333333333333333,3,Yes
+EXP_001,Student_0084,2025-02-18 01:55:23.539,Treatment,1,1,1,8.285,61.9,Company_062,J0144,Student Applied,Marketing,Central,2.0,3.5,2,Yes
+EXP_001,Student_0069,2025-02-18 16:20:50.083,Treatment,1,1,1,7.239999999999999,41.0,Company_051,J0165,Student Applied,Data Analysis,North,3.6666666666666665,6.666666666666667,3,Yes
+EXP_001,Student_0126,2025-02-20 11:37:09.716,Treatment,1,1,1,7.636666666666667,35.23333333333333,Company_052,J0210,Company Shortlisted,Python,South,1.6666666666666667,6.333333333333333,3,No
+EXP_001,Student_0235,2025-02-20 18:49:52.988,Control,1,0,1,7.859999999999999,66.75,Company_062,J0007,Company Posted,Data Analysis,West,1.5,2.5,2,Yes
+EXP_001,Student_0043,2025-02-21 02:02:36.260,Treatment,1,1,1,3.145,36.65,Company_058,J0074,Company Shortlisted,Sql,East,1.5,4.5,2,Yes
+EXP_001,Student_0203,2025-02-21 16:28:02.805,Treatment,1,0,1,5.598,35.4,Company_012,J0161,Company Posted,Data Analysis,East,2.8,6.0,5,Yes
+EXP_001,Student_0111,2025-02-22 06:53:29.349,Control,1,1,1,8.13,30.199999999999996,Company_002,J0085,Student Applied,Excel,North,2.7142857142857144,5.285714285714286,7,No
+EXP_001,Student_0183,2025-02-23 04:31:39.165,Treatment,1,1,1,8.485,41.150000000000006,Company_059,J0125,Student Applied,Finance,South,2.0,4.5,2,Yes
+EXP_001,Student_0080,2025-02-23 11:44:22.437,Control,1,0,0,7.81,46.6,Company_002,J0147,Company Posted,Excel,West,3.0,1.0,1,Yes
+EXP_001,Student_0144,2025-02-24 16:35:15.526,Control,1,0,0,4.2,2.7,Company_019,J0082,Company Posted,Power Bi,North,3.0,10.0,1,Yes
+EXP_001,Student_0008,2025-02-24 23:47:58.798,Treatment,1,1,1,5.180000000000001,21.400000000000002,Company_002,J0002,Student Applied,Finance,Central,1.6666666666666667,6.0,3,Yes
+EXP_001,Student_0104,2025-02-25 14:13:25.342,Control,1,0,1,5.611428571428571,17.071428571428573,Company_044,J0047,Company Posted,Excel,Central,1.7142857142857142,6.142857142857143,7,Yes
+EXP_001,Student_0025,2025-02-26 11:51:35.159,Control,1,1,1,6.073333333333333,53.96666666666667,Company_032,J0011,Company Shortlisted,Tableau,East,3.6666666666666665,4.0,3,Yes
+EXP_001,Student_0195,2025-02-26 19:04:18.431,Control,1,1,1,7.34,20.6,Company_068,J0130,Student Applied,Java,Central,2.0,9.0,2,No
+EXP_001,Student_0096,2025-02-27 02:17:01.703,Control,1,1,0,6.57,28.9,Company_055,J0195,Student Applied,Finance,West,3.0,6.0,1,Yes
+EXP_001,Student_0093,2025-02-27 23:55:11.519,Control,1,1,1,7.32,34.9,Company_017,J0140,Student Applied,Java,East,3.5,6.0,2,Yes
+EXP_001,Student_0160,2025-02-28 07:07:54.791,Control,1,1,0,1.89,57.6,Company_038,J0020,Company Shortlisted,Power Bi,East,0.0,6.0,1,No
+EXP_001,Student_0061,2025-02-28 21:33:21.336,Control,1,1,1,8.993333333333334,57.1,Company_069,J0037,Company Shortlisted,Power Bi,East,2.3333333333333335,6.0,3,Yes
+EXP_001,Student_0122,2025-03-01 04:46:04.608,Treatment,1,1,0,6.99,34.7,Company_070,J0166,Student Applied,Python,South,1.0,3.0,1,Yes
+EXP_001,Student_0147,2025-03-01 19:11:31.152,Treatment,1,1,0,2.41,6.2,Company_016,J0053,Student Applied,Marketing,Central,0.0,2.0,1,No
+EXP_001,Student_0021,2025-03-02 02:24:14.424,Treatment,1,1,1,5.38,12.7,Company_073,J0172,Student Applied,Power Bi,Central,4.0,7.5,2,Yes
+EXP_001,Student_0210,2025-03-02 16:49:40.968,Treatment,1,1,1,8.295,62.0,Company_070,J0086,Company Shortlisted,Finance,North,2.0,7.0,2,Yes
+EXP_001,Student_0170,2025-03-03 07:15:07.513,Control,1,0,0,11.11,18.1,Company_003,J0024,Company Posted,Marketing,Central,4.0,8.0,1,No
+EXP_001,Student_0022,2025-03-03 21:40:34.057,Control,1,1,0,7.3,60.0,Company_059,J0202,Company Shortlisted,Power Bi,South,4.0,3.0,1,Yes
+EXP_001,Student_0070,2025-03-04 12:06:00.601,Control,1,1,1,8.08,43.20000000000001,Company_019,J0120,Student Applied,Finance,Central,1.3333333333333333,5.333333333333333,3,Yes
+EXP_001,Student_0233,2025-03-05 09:44:10.417,Control,1,0,1,6.275,14.45,Company_020,J0128,Company Posted,Power Bi,North,2.5,6.5,2,Yes
+EXP_001,Student_0090,2025-03-06 00:09:36.962,Treatment,1,1,1,5.016666666666667,53.86666666666667,Company_052,J0114,Company Shortlisted,Python,North,3.0,7.333333333333333,3,No
+EXP_001,Student_0218,2025-03-07 12:13:13.322,Control,1,1,1,3.1350000000000002,55.85,Company_011,J0040,Company Shortlisted,Tableau,West,2.25,4.0,4,No
+EXP_001,Student_0045,2025-03-07 19:25:56.594,Control,1,1,0,5.52,62.5,Company_057,J0194,Student Applied,Power Bi,North,4.0,6.0,1,Yes
+EXP_001,Student_0073,2025-03-08 09:51:23.139,Control,1,1,1,7.025,42.45,Company_023,J0103,Company Shortlisted,Power Bi,West,3.5,6.0,2,Yes
+EXP_001,Student_0121,2025-03-09 14:42:16.227,Control,1,1,1,7.165,50.7,Company_016,J0154,Student Applied,Python,North,1.5,4.0,2,Yes
+EXP_001,Student_0214,2025-03-09 21:54:59.499,Treatment,1,0,1,4.75,39.03333333333333,Company_060,J0186,Company Posted,Sql,Central,3.0,6.333333333333333,3,No
+EXP_001,Student_0094,2025-03-10 19:33:09.316,Treatment,1,0,1,6.09,45.44,Company_048,J0098,Company Posted,Data Analysis,Central,0.6,4.0,5,Yes
+EXP_001,Student_0107,2025-03-11 02:45:52.588,Control,1,1,1,4.376666666666666,44.9,Company_012,J0215,Student Applied,Java,East,4.0,7.666666666666667,3,Yes
+EXP_001,Student_0048,2025-03-11 17:11:19.132,Treatment,1,1,0,4.37,12.3,Company_037,J0075,Company Shortlisted,Python,East,5.0,1.0,1,Yes
+EXP_001,Student_0036,2025-03-12 22:02:12.220,Control,1,0,1,8.456666666666667,47.866666666666674,Company_048,J0085,Company Posted,Java,East,1.3333333333333333,9.333333333333334,3,Yes
+EXP_001,Student_0180,2025-03-14 10:05:48.581,Control,1,1,1,5.566666666666666,29.8,Company_054,J0034,Company Shortlisted,Power Bi,Central,2.3333333333333335,6.666666666666667,3,No
+EXP_001,Student_0127,2025-03-15 07:43:58.397,Control,1,1,1,3.4800000000000004,47.7,Company_075,J0153,Student Applied,Python,West,2.5,5.5,2,Yes
+EXP_001,Student_0014,2025-03-16 05:22:08.214,Control,1,0,1,6.9,48.599999999999994,Company_038,J0087,Company Posted,Python,West,2.25,4.75,4,Yes
+EXP_001,Student_0215,2025-03-17 03:00:18.030,Treatment,1,1,0,6.31,53.7,Company_066,J0086,Student Applied,Excel,Central,0.0,7.0,1,Yes
+EXP_001,Student_0130,2025-03-18 00:38:27.846,Treatment,1,1,1,9.485,47.925,Company_080,J0057,Company Shortlisted,Tableau,West,2.0,7.5,4,Yes
+EXP_001,Student_0187,2025-03-19 05:29:20.935,Control,1,0,1,9.665,52.599999999999994,Company_068,J0168,Company Posted,Tableau,East,3.5,6.5,2,Yes
+EXP_001,Student_0007,2025-03-20 03:07:30.751,Control,1,1,0,5.54,44.3,Company_021,J0053,Student Applied,Java,North,0.0,10.0,1,Yes
+EXP_001,Student_0238,2025-03-21 07:58:23.840,Control,1,1,0,0.96,30.8,Company_007,J0145,Student Applied,Sql,Central,5.0,10.0,1,Yes
+EXP_001,Student_0237,2025-03-22 05:36:33.656,Control,1,1,1,8.92,32.4,Company_033,J0220,Student Applied,Finance,North,0.0,8.0,2,Yes
+EXP_001,Student_0018,2025-03-22 12:49:16.928,Control,1,0,0,4.32,1.5,Company_048,J0190,Company Posted,Data Analysis,Central,1.0,8.0,1,Yes
+EXP_001,Student_0227,2025-03-23 10:27:26.745,Control,1,1,1,3.565,28.8,Company_022,J0064,Company Shortlisted,Data Analysis,East,4.5,5.5,2,Yes
+EXP_001,Student_0015,2025-03-24 00:52:53.289,Treatment,1,1,1,7.163333333333334,44.06666666666666,Company_038,J0054,Company Shortlisted,Data Analysis,South,2.6666666666666665,3.0,3,No
+EXP_001,Student_0185,2025-03-26 10:34:39.466,Treatment,1,0,1,6.753333333333333,55.26666666666667,Company_028,J0029,Company Posted,Marketing,North,2.6666666666666665,4.666666666666667,3,Yes
+EXP_001,Student_0231,2025-03-27 01:00:06.010,Treatment,1,1,1,8.84,36.45,Company_069,J0011,Student Applied,Marketing,North,4.5,9.5,2,No
+EXP_001,Student_0044,2025-03-28 05:50:59.098,Treatment,1,0,1,6.275,44.650000000000006,Company_004,J0113,Company Posted,Java,East,3.5,1.0,2,Yes
+EXP_001,Student_0013,2025-03-29 03:29:08.915,Control,1,1,1,7.355,42.6,Company_049,J0054,Company Shortlisted,Finance,West,0.5,6.0,2,Yes
+EXP_001,Student_0068,2025-03-30 01:07:18.731,Treatment,1,1,1,7.9275,36.45,Company_030,J0111,Company Shortlisted,Data Analysis,South,2.5,5.25,4,Yes
+EXP_001,Student_0067,2025-03-30 15:32:45.275,Treatment,1,1,1,5.64,28.75,Company_006,J0150,Student Applied,Power Bi,East,4.0,5.0,2,Yes
+EXP_001,Student_0168,2025-04-02 22:52:41.269,Treatment,1,1,1,5.81,43.45,Company_025,J0154,Student Applied,Finance,South,2.0,7.0,2,Yes
+EXP_001,Student_0042,2025-04-04 03:43:34.357,Treatment,1,1,1,8.64,47.03333333333333,Company_046,J0040,Company Shortlisted,Sql,Central,2.6666666666666665,8.0,3,No
+EXP_001,Student_0169,2025-04-04 10:56:17.629,Control,1,0,0,7.96,2.0,Company_024,J0017,Company Posted,Tableau,East,0.0,5.0,1,No
+EXP_001,Student_0064,2025-04-05 22:59:53.990,Treatment,1,1,1,8.16,17.325,Company_027,J0104,Student Applied,Python,North,1.75,6.75,4,Yes
+EXP_001,Student_0198,2025-04-07 18:16:13.623,Treatment,1,1,1,7.673333333333333,32.733333333333334,Company_048,J0108,Company Shortlisted,Data Analysis,Central,2.3333333333333335,5.333333333333333,3,Yes
+EXP_001,Student_0150,2025-04-09 06:19:49.983,Treatment,1,0,1,5.165,41.1,Company_025,J0012,Company Posted,Data Analysis,East,3.5,5.5,2,Yes
+EXP_001,Student_0062,2025-04-12 06:27:02.705,Treatment,1,1,1,7.112500000000001,36.175,Company_008,J0055,Student Applied,Java,East,4.25,4.75,4,No
+EXP_001,Student_0152,2025-04-13 04:05:12.521,Control,1,1,1,9.346666666666666,44.26666666666667,Company_076,J0062,Student Applied,Sql,South,1.6666666666666667,4.0,3,Yes
+EXP_001,Student_0137,2025-04-13 18:30:39.065,Treatment,1,1,1,5.485,12.45,Company_066,J0216,Student Applied,Java,East,2.0,5.5,2,No
+EXP_001,Student_0131,2025-04-14 08:56:05.609,Treatment,1,1,0,11.0,35.4,Company_063,J0008,Student Applied,Python,West,0.0,8.0,1,Yes
+EXP_001,Student_0243,2025-04-14 16:08:48.881,Treatment,1,1,1,6.005,68.05000000000001,Company_051,J0149,Company Shortlisted,Tableau,North,4.5,4.5,2,Yes
+EXP_001,Student_0031,2025-04-14 23:21:32.154,Treatment,1,1,0,10.04,22.5,Company_025,J0081,Student Applied,Tableau,Central,5.0,1.0,1,No
+EXP_001,Student_0040,2025-04-15 06:34:15.426,Treatment,1,1,1,3.8200000000000003,39.06666666666667,Company_058,J0215,Student Applied,Sql,North,4.0,4.0,3,No
+EXP_001,Student_0223,2025-04-16 11:25:08.514,Treatment,1,1,0,8.28,28.9,Company_058,J0200,Student Applied,Sql,West,2.0,3.0,1,Yes
+EXP_001,Student_0230,2025-04-20 09:10:31.052,Control,1,0,0,3.75,20.1,Company_068,J0016,Company Posted,Power Bi,Central,2.0,7.0,1,No
+EXP_001,Student_0136,2025-04-22 11:39:33.957,Control,1,0,1,6.4,33.45,Company_013,J0135,Company Posted,Power Bi,South,2.5,7.0,2,No
+EXP_001,Student_0019,2025-04-25 11:46:46.678,Treatment,1,0,0,5.61,58.4,Company_009,J0215,Company Posted,Power Bi,West,0.0,7.0,1,Yes
+EXP_001,Student_0020,2025-04-26 09:24:56.494,Treatment,1,0,0,1.17,62.0,Company_058,J0167,Company Posted,Power Bi,East,0.0,8.0,1,Yes
+EXP_001,Student_0140,2025-04-26 23:50:23.038,Control,1,1,1,7.18,34.15,Company_034,J0187,Student Applied,Power Bi,Central,1.5,7.5,2,No
+EXP_001,Student_0037,2025-04-29 02:19:25.943,Control,1,1,1,5.49,41.75,Company_069,J0188,Student Applied,Finance,East,1.5,8.0,2,Yes
+EXP_001,Student_0139,2025-04-29 16:44:52.487,Control,1,1,0,8.14,9.5,Company_067,J0098,Student Applied,Data Analysis,East,1.0,3.0,1,No
+EXP_001,Student_0100,2025-04-29 23:57:35.760,Control,1,1,1,5.465,31.450000000000003,Company_076,J0131,Company Shortlisted,Power Bi,North,0.0,1.5,2,No
+EXP_001,Student_0077,2025-04-30 07:10:19.032,Treatment,1,1,0,8.56,58.0,Company_026,J0037,Student Applied,Tableau,North,3.0,7.0,1,Yes
+EXP_001,Student_0172,2025-05-03 14:30:15.025,Treatment,1,1,0,10.96,10.3,Company_016,J0093,Company Shortlisted,Excel,Central,2.0,1.0,1,No
+EXP_001,Student_0009,2025-05-06 21:50:11.018,Control,1,1,0,10.42,28.2,Company_058,J0055,Company Shortlisted,Power Bi,West,4.0,1.0,1,Yes
+EXP_001,Student_0143,2025-05-07 12:15:37.563,Treatment,1,0,1,4.23,63.400000000000006,Company_069,J0034,Company Posted,Java,North,2.0,6.0,2,Yes
+EXP_001,Student_0163,2025-05-08 17:06:30.651,Control,1,1,0,2.85,37.3,Company_080,J0018,Student Applied,Python,South,4.0,8.0,1,Yes
+EXP_001,Student_0049,2025-05-09 14:44:40.467,Treatment,1,1,0,1.13,59.8,Company_024,J0123,Student Applied,Tableau,South,5.0,4.0,1,No
+EXP_001,Student_0188,2025-05-10 12:22:50.284,Control,1,0,0,3.85,8.5,Company_035,J0029,Company Posted,Java,West,2.0,10.0,1,Yes
+EXP_001,Student_0117,2025-05-11 17:13:43.372,Treatment,1,1,0,2.72,26.8,Company_051,J0016,Student Applied,Excel,East,0.0,7.0,1,Yes
+EXP_001,Student_0120,2025-05-12 00:26:26.644,Control,1,1,1,5.155,43.2,Company_043,J0184,Student Applied,Python,North,2.0,4.0,2,No
+EXP_001,Student_0076,2025-05-13 05:17:19.733,Treatment,1,1,1,4.75,45.85,Company_033,J0153,Student Applied,Sql,North,1.0,7.0,2,Yes
+EXP_001,Student_0213,2025-05-18 15:06:18.631,Control,1,1,0,0.75,38.0,Company_075,J0181,Student Applied,Finance,North,5.0,10.0,1,Yes
+EXP_001,Student_0089,2025-05-21 08:00:48.080,Treatment,1,0,1,7.96,39.55,Company_049,J0187,Company Posted,Data Analysis,Central,3.0,5.0,2,Yes
+EXP_001,Student_0125,2025-05-24 22:33:27.346,Treatment,1,1,0,6.35,37.4,Company_062,J0062,Company Shortlisted,Finance,West,2.0,8.0,1,Yes
+EXP_001,Student_0097,2025-05-25 12:58:53.890,Treatment,1,0,1,4.543333333333333,28.866666666666664,Company_059,J0153,Company Posted,Java,South,2.0,9.0,3,Yes
+EXP_001,Student_0206,2025-05-28 20:18:49.883,Treatment,1,0,0,2.28,60.9,Company_052,J0110,Company Posted,Tableau,North,4.0,4.0,1,No
+EXP_001,Student_0135,2025-05-31 20:26:02.604,Treatment,1,1,0,7.06,25.8,Company_039,J0005,Student Applied,Excel,North,2.0,6.0,1,No
+EXP_001,Student_0200,2025-06-01 10:51:29.149,Control,1,1,1,2.535,52.2,Company_042,J0047,Student Applied,Excel,North,4.0,8.0,2,No
+EXP_001,Student_0244,2025-06-02 08:29:38.965,Control,1,1,1,2.505,3.65,Company_014,J0009,Student Applied,Marketing,South,2.5,8.0,2,Yes
+EXP_001,Student_0164,2025-06-05 01:24:08.414,Control,1,1,1,11.215,18.9,Company_017,J0062,Student Applied,Power Bi,West,3.5,8.0,2,Yes
+EXP_001,Student_0196,2025-06-07 18:18:37.863,Treatment,1,1,0,7.44,35.3,Company_066,J0073,Student Applied,Excel,North,1.0,10.0,1,Yes
+EXP_001,Student_0159,2025-06-11 01:38:33.856,Treatment,1,0,0,4.49,29.6,Company_036,J0029,Company Posted,Power Bi,South,1.0,6.0,1,Yes
+EXP_001,Student_0148,2025-06-19 04:22:02.204,Control,1,1,0,5.04,9.7,Company_006,J0028,Student Applied,Sql,Central,1.0,3.0,1,Yes
+EXP_001,Student_0171,2025-06-26 02:14:37.462,Treatment,1,1,0,4.06,21.5,Company_003,J0168,Company Shortlisted,Power Bi,North,0.0,6.0,1,No
+EXP_001,Student_0204,2025-06-26 09:27:20.735,Treatment,1,1,0,11.71,27.8,Company_016,J0092,Student Applied,Java,Central,4.0,4.0,1,No
+EXP_001,Student_0241,2025-06-29 16:47:16.728,Treatment,1,0,0,1.24,12.1,Company_036,J0170,Company Posted,Power Bi,Central,2.0,1.0,1,Yes
